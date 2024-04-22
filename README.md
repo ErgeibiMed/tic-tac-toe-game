@@ -1,3 +1,2 @@
-# tic-tac-toe game
-# with react
+# tic-tac-toe game with react
 
